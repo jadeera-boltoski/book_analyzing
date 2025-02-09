@@ -1,0 +1,1 @@
+export const BASE_URL="http://192.168.232.97:8000/api/test-questions/"
